@@ -1,0 +1,7 @@
+{
+    "type": "library",
+    "name": "QuickJS",
+    "target": "Library/KoalaQuickJS",
+    "includes": [ "Include" ],
+    "sources": [ "Source" ]
+}

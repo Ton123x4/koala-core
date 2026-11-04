@@ -1,0 +1,16 @@
+{
+    "type": "library",
+    "name": "Miniz",
+    "target": "Library/KoalaMiniz",
+    "defines": {
+        "default": [
+            "_GNU_SOURCE"
+        ]
+    },
+    "includes": [
+        "Include"
+    ],
+    "sources": [
+        "Source"
+    ]
+}

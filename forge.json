@@ -1,0 +1,19 @@
+{
+    "packages": [
+        "Sources/Miniz",
+        "Sources/QuickJS",
+        "Sources/KoalaCore",
+        "Sources/KoalaExample"
+    ],
+    "resources": [
+        {
+            "from": "Sources/KoalaCore/Include",
+            "to": "Include"
+        },
+        {
+            "from": "Sources/QuickJS/Include",
+            "to": "Include"
+        },
+        "LICENSE.txt"
+    ]
+}

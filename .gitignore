@@ -1,0 +1,14 @@
+# Forge generated directory
+.forge
+.forge_debug
+
+# Editor
+/.cache
+/.clangd
+/.idea
+/.vs
+/.vscode
+/.zed
+
+# OS specific
+.DS_Store

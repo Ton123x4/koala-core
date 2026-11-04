@@ -1,0 +1,8 @@
+{
+    "type": "library",
+    "name": "KoalaCore",
+    "target": "Library/KoalaCore",
+    "includes": [ "Include" ],
+    "sources": [ "Source" ],
+    "requires": [ "Miniz", "QuickJS" ]
+}

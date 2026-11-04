@@ -1,0 +1,7 @@
+{
+    "type": "executable",
+    "name": "KoalaExample",
+    "target": "Binaries/KoalaExample",
+    "sources": [ "Source" ],
+    "requires": [ "KoalaCore" ]
+}
